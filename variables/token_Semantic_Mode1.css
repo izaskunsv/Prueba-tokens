@@ -1,0 +1,22 @@
+:root {
+  --color-semantic-actions-link-active: #3460a0;
+  --color-semantic-actions-link-default: #b60504;
+  --color-semantic-actions-link-disable: #e2e8f0;
+  --color-semantic-actions-link-focus: #013888;
+  --color-semantic-actions-link-hover: #013888;
+  --color-semantic-actions-primary-active: #3460a0;
+  --color-semantic-actions-primary-default: #b60504;
+  --color-semantic-actions-primary-disable: #e2e8f0;
+  --color-semantic-actions-primary-focus: #e03639;
+  --color-semantic-actions-primary-hover: #013888;
+  --color-semantic-actions-secondary-active: #013888;
+  --color-semantic-actions-secondary-default: #b0c1da;
+  --color-semantic-actions-secondary-disable: #e2e8f0;
+  --color-semantic-actions-secondary-focus: #013888;
+  --color-semantic-actions-secondary-hover: #557aaf;
+  --color-semantic-actions-secundary: #b60504;
+  --color-semantic-feedback-error: #e03639;
+  --color-semantic-feedback-info: #3460a0;
+  --color-semantic-feedback-success: #4dc088;
+  --color-semantic-feedback-warning: #fdd142;
+}
